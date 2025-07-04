@@ -231,4 +231,4 @@ If you create an improved version, feel free to share the link in Issues, and we
 
 The authors of this project do not assume responsibility for any direct or indirect losses resulting from the use of this handbook. Users should assume their own risks and consult professional advice for critical applications.
 
-*最後更新 | Last Updated：2024年12月 | December 2024*
+*最後更新 | Last Updated：2025年7月 | July 2025*

@@ -10,7 +10,10 @@
       "WebFetch(domain:www.anthropic.com)",
       "WebFetch(domain:www-cdn.anthropic.com)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote set-url:*)"
     ],
     "deny": []
   }
