@@ -3,8 +3,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation](https://img.shields.io/badge/docs-complete-brightgreen)](./claude_prompting_techniques/)
 [![Techniques](https://img.shields.io/badge/techniques-32-blue)](./claude_prompting_techniques/)
+[![Status](https://img.shields.io/badge/status-archived-orange)](#-專案狀態--project-status)
+[![Fork](https://img.shields.io/badge/welcome-fork-success)](#-歡迎-fork--welcome-to-fork)
 
 > 完整的 Claude AI 工程提示詞技術指南與實用手冊
+
+## ⚠️ 專案狀態 | Project Status
+🏁 **本專案已完成開發，現進入 Archive 模式。歡迎 Fork 接續維護！**  
+🏁 **This project is complete and now in Archive mode. Welcome to Fork and continue!**
 
 ## 📖 專案簡介
 
@@ -114,19 +120,115 @@ claude-handbook/
 
 本專案採用 MIT 授權條款，您可以自由使用、修改和分發本專案的內容。
 
-## 🤝 貢獻
+## ⚠️ 重要聲明與免責條款
 
-歡迎提交 Issue 或 Pull Request 來改進這個專案。如果您發現任何錯誤或有改進建議，請隨時聯繫我們。
+### 📋 內容性質說明
+- **僅供參考**：本手冊的所有內容僅供學習和參考使用，不構成官方指導
+- **官方文檔優先**：如有疑問，請以 [Anthropic 官方文檔](https://docs.anthropic.com/claude/docs) 為準
+- **AI 生成內容**：本專案部分內容由 AI 協助生成，可能存在幻覺或錯誤
+- **謹慎判斷**：使用者應謹慎判斷內容的準確性，並在實際應用前進行驗證
 
-## 📞 聯繫方式
-
-如有任何問題或建議，歡迎透過以下方式聯繫：
-
-- 📧 Email: [您的聯繫方式]
-- 🐛 Issues: [GitHub Issues 連結]
+### 🔍 使用建議
+1. **驗證為先**：所有技術建議在生產環境使用前請先測試驗證
+2. **持續更新**：Claude API 和最佳實踐可能會變化，請關注官方更新
+3. **適當調整**：根據您的具體需求調整和優化提示技術
+4. **安全考量**：特別注意安全性相關的技術實作
 
 ---
 
-⭐ **如果這個專案對您有幫助，請給我們一個 Star！**
+## 🌐 分享與推廣 | Sharing & Promotion
 
-*最後更新：2024年12月*
+### 中文社群 | Chinese Community
+歡迎在以下平台分享本專案：
+- 🐦 **微博**：分享時請註明來源和免責聲明
+- 💬 **微信群/QQ群**：技術交流群組
+- 📖 **知乎/CSDN**：技術文章平台
+- 🔄 **掘金/思否**：開發者社群
+
+### English Community
+Feel free to share this project on:
+- 🐦 **Twitter/X**: #ClaudeAI #PromptEngineering #AnthropicClaude
+- 💬 **Discord**: Anthropic Community, AI Development servers
+- 📱 **Reddit**: r/ClaudeAI, r/PromptEngineering, r/MachineLearning
+- 💼 **LinkedIn**: Professional AI/ML communities
+
+### 📤 分享模板 | Sharing Template
+
+**中文版本：**
+```
+🚀 發現一個超詳細的 Claude 提示工程指南！
+
+📚 Claude Handbook - 包含32個完整技術指南
+✅ 基於官方文檔驗證
+💻 附完整代碼範例
+🎯 涵蓋從基礎到進階所有技術
+
+⚠️ 注意：內容僅供參考，請以官方文檔為準，AI生成內容可能有誤，請謹慎判斷
+
+GitHub: [您的項目連結]
+#ClaudeAI #提示工程 #人工智能
+```
+
+**English Version:**
+```
+🚀 Found an incredibly detailed Claude Prompt Engineering Guide!
+
+📚 Claude Handbook - 32 comprehensive technique guides
+✅ Verified against official documentation  
+💻 Complete code examples included
+🎯 Covers everything from basics to advanced techniques
+
+⚠️ Disclaimer: Content for reference only. Please refer to official docs. AI-generated content may contain errors - use with caution.
+
+GitHub: [Your project link]
+#ClaudeAI #PromptEngineering #AI #Anthropic
+```
+
+---
+
+## 📦 專案狀態 | Project Status
+
+### 🎯 **專案已完成 | Project Completed**
+
+本專案為 **完整版技術指南**，包含 32 個 Claude 提示工程技術，**已完成開發並進入 Archive 模式**。
+
+This project is a **complete technical guide** with 32 Claude prompt engineering techniques. **Development is finished and the project is now in Archive mode.**
+
+### 🍴 **歡迎 Fork | Welcome to Fork**
+
+- ✅ **自由 Fork**：歡迎任何人 Fork 本專案進行改進或擴展
+- ✅ **自主維護**：Fork 後可以自由修改、添加、改進內容  
+- ✅ **無需許可**：不需要通知作者，想改就改
+- ✅ **保留版權**：請在 Fork 版本中保留原作者聲明即可
+
+**原作者不再主動維護此專案，但歡迎社群接力！**
+
+**The original author will no longer actively maintain this project, but community continuation is welcome!**
+
+### 🌟 **如何接續專案 | How to Continue the Project**
+
+1. **Fork 本倉庫**
+2. **添加新內容或改進現有內容**
+3. **建立自己的維護分支**
+4. **歡迎在您的版本中說明改進內容**
+
+### 🔄 **社群版本 | Community Versions**
+
+如果您創建了改進版本，歡迎在 Issues 中分享連結，我們會在此列出：
+
+If you create an improved version, feel free to share the link in Issues, and we'll list it here:
+
+- *目前暫無社群版本 | No community versions yet*
+
+---
+
+⭐ **如果這個專案對您有幫助，請給我們一個 Star！**  
+⭐ **If this project helps you, please give us a Star!**
+
+## 📜 最終免責聲明 | Final Disclaimer
+
+本專案作者不對使用本手冊所產生的任何直接或間接損失承擔責任。使用者應自行承擔使用風險，並在關鍵應用中諮詢專業意見。
+
+The authors of this project do not assume responsibility for any direct or indirect losses resulting from the use of this handbook. Users should assume their own risks and consult professional advice for critical applications.
+
+*最後更新 | Last Updated：2024年12月 | December 2024*

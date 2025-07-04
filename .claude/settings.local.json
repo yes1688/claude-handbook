@@ -8,7 +8,9 @@
       "Bash(ls:*)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:www.anthropic.com)",
-      "WebFetch(domain:www-cdn.anthropic.com)"
+      "WebFetch(domain:www-cdn.anthropic.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
     ],
     "deny": []
   }
