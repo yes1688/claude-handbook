@@ -15,11 +15,10 @@
 🔸 **請謹慎判斷**：使用者可根據實際需求決定是否採用此技術，請勿盲目模仿
 
 > 📖 **詳細說明** → [XML Tags 技術指南](./claude_prompting_techniques/05_XML_Tags_XML標籤結構化.md)
+
 ## ⚠️ 專案狀態 | Project Status
 🏁 **本專案已完成開發，現進入 Archive 模式。歡迎 Fork 接續維護！**  
 🏁 **This project is complete and now in Archive mode. Welcome to Fork and continue!**
-
-> 📖 **詳細說明** → [XML Tags 技術指南](./claude_prompting_techniques/05_XML_Tags_XML標籤結構化.md)
 ## 📖 專案簡介
 
 **Claude Handbook** 是一個全面且實用的 Claude AI 工程提示詞技術指南集合。本專案包含 32 個獨立的詳細技術指南文件，每個文件都基於 Anthropic 官方文檔驗證，提供完整的技術說明、實作範例和最佳實踐。
