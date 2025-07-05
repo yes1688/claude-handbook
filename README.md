@@ -12,6 +12,14 @@
 🏁 **本專案已完成開發，現進入 Archive 模式。歡迎 Fork 接續維護！**  
 🏁 **This project is complete and now in Archive mode. Welcome to Fork and continue!**
 
+## ⚠️ XML 標籤使用重要說明
+🔸 **本專案大量使用 XML 標籤結構化提示**，這是基於 [Anthropic 官方建議](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/use-xml-tags) 的技術  
+🔸 **XML 標籤並非必要**：官方說明指出雖有助於提升效果，但在結構清楚時可不使用  
+🔸 **複雜場景下有效**：在複雜提示場景下，XML 標籤能顯著提升 Claude 解析準確性  
+🔸 **請謹慎判斷**：使用者可根據實際需求決定是否採用此技術，請勿盲目模仿
+
+> 📖 **詳細說明** → [XML Tags 技術指南](./claude_prompting_techniques/05_XML_Tags_XML標籤結構化.md)
+
 ## 📖 專案簡介
 
 **Claude Handbook** 是一個全面且實用的 Claude AI 工程提示詞技術指南集合。本專案包含 32 個獨立的詳細技術指南文件，每個文件都基於 Anthropic 官方文檔驗證，提供完整的技術說明、實作範例和最佳實踐。
